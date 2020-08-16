@@ -1,0 +1,54 @@
+[33mcommit ed05c1fb2a85c3c18179c2b6b92057c4bb8b0a19[m[33m ([m[1;36mHEAD -> [m[1;32mSerialCom[m[33m)[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Fri Jan 24 22:55:45 2020 +0530
+
+    Added SerialCom
+
+[33mcommit 888cbef10e8148ce642ea0d9112068be9f90ef44[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: eb4d97d 64789bd
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:53:16 2020 +0530
+
+    Merge branch 'GetSensors'
+
+[33mcommit eb4d97da10f298f369aee6ee0c42ab7de3f9d157[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:45:19 2020 +0530
+
+    Done
+
+[33mcommit 6ca67a9ba6064e83142a8fbec0f6a51cb40fc152[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:42:06 2020 +0530
+
+    added dht library
+
+[33mcommit 64789bd5250f0b191023266ebc52b6665dc5f859[m[33m ([m[1;32mGetSensors[m[33m)[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:41:22 2020 +0530
+
+    Done all sensors
+
+[33mcommit e5ac5dd082f81095fc925ccd35642292c5016334[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:21:58 2020 +0530
+
+    pH added
+
+[33mcommit 9af109826d07254e883e9784ef336665296a7a32[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 20:10:23 2020 +0530
+
+    Water Level Sensors Done
+
+[33mcommit dacc25e9e430e02f41a213603ff02f6e9688a158[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 19:54:13 2020 +0530
+
+    GetSensors file added
+
+[33mcommit 4e4fa08774630e84dc6e188fd1c349e8ae7048d9[m
+Author: Liyanage Malitha <e15299@ce.pdn.ac.lk>
+Date:   Thu Jan 23 19:45:31 2020 +0530
+
+    Main file added
